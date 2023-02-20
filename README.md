@@ -1,2 +1,2 @@
-# ExcelProject1
+# DATA ANALYSIS WITH EXCEL
 A project focusing on writing a few different formulas and functions and creating data visualisation charts.
